@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basarnator</string>
+    <string name="TrekkeKnapp">Trekk</string>
+    <string name="outputTekst">Her kjem eit tall</string>
+</resources>
